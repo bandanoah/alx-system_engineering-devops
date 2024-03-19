@@ -1,0 +1,1 @@
+ This is a second directory dedicated to learning and testing bash commands it is a very interesting project for me getting to learn bash commands and how to essentially be able to make my way around a linux system more easily.
