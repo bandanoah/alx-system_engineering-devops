@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo -e "$((TRUEKNOWLEDGE + 128))\n"
